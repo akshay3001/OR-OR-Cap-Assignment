@@ -1,0 +1,83 @@
+/*header background color and text size*/
+.bg-textsize{
+	background-color: #021A48;
+	font-size: 11px;
+	padding-top: 10px;
+	color: #DCDFE3;
+	font-family:"Source Sans Pro", sans-serif;
+	
+	}
+	/*header background color and text size*/
+	
+	
+	/*margin of glyphicons starts*/
+	.icon-margin
+	{
+		margin-right: 5px;
+	}
+	
+	/*margin of glyphicons ends*/
+	
+	
+	/*padding for content(|) separator starts*/
+	.padding
+	{
+	margin-left: 8px;
+	margin-right: 8px;
+	}
+	
+	/*padding for content(|) separator ends*/
+	
+	
+	/*styling for hyperlinked elements starts*/
+	.a1
+	{
+		color:#DCDFE3;
+	}
+	.a1:hover
+	{
+	color: #17BB62;
+	text-decoration:none;
+	}
+	/*styling for hyperlinked elements ends*/
+
+
+/*==============================
+footer styling starts   */
+
+.footer-font{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 13px;
+	color: #DCDFE3;
+	background-color: #001848;
+
+}
+
+.footer-main{
+	padding-top: 50px;
+	padding-bottom: 30px;
+	line-height: 1.5;
+}
+.logo-flex{
+	display: flex;
+	padding-top: 45px;
+	padding-bottom: 5pxpx;
+}
+
+.line-height{
+	line-height: 1.5;
+}
+
+.copyright{
+	text-align: center;
+	margin-bottom: 19px;
+	color: #DCDFE3;
+	text-decoration: none;
+}
+
+.getting-content-grid{
+	display: grid;
+	line-height: 2.5;
+}
+/*================================
+footer styling ends here */

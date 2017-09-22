@@ -1,0 +1,28 @@
+.carousel{
+    background: #CED6DE;     /*main element of slider*/
+    margin-top: 20px;
+}
+.carousel .item{
+    min-height: 280px;   /* Prevent carousel from being distorted if for some reason image doesn't load */
+
+}
+.carousel .item img{
+    margin: 0 auto;     /* Align slide image horizontally center */
+}
+.bs-example{
+	margin: 20px;
+}
+.serif{
+    font-family: 'Crete Round', serif; /*font family for text inserted in heading of slider*/ 
+    
+}
+.class{
+    font-family: 'Roboto', sans-serif;   /*font family for text inserted in slider*/
+
+}
+.carousel-inner{
+height:750px;           /*size of images inserted*/
+
+}
+
+
