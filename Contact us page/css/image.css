@@ -1,0 +1,30 @@
+.headerimg {
+    width: 100%;
+    border: 1px solid #333;
+    height:235px;
+    }
+
+
+
+.banner_desc {
+    display: block;
+    z-index: 2;
+    text-shadow: none;
+    margin: 0;
+    max-width: none;
+    position: absolute;
+    top: 41%;
+    left: 0;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    color: white;
+}
+.colo{
+	color: white;
+}
+.colo:hover{
+
+color: #17BB62;
+text-decoration:none;
+}

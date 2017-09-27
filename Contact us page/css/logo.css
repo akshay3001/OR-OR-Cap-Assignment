@@ -1,0 +1,32 @@
+.logo {
+    position: absolute;
+    z-index: 5555;
+   /* text-align: center;*/
+    right: 0;
+    width: 70%;
+}
+.logo1{
+
+    position: relative;
+}
+.menu-right{
+
+    background: none;
+}
+.top-menu{
+	margin-left: : 30%;
+}
+.top-menu ul li a.active {
+    color: #fff;
+    background: #87d54d;
+    padding: 18px 20px;
+}
+.top-menu ul li a {
+    text-decoration: none;
+    color: #555;
+    text-transform: uppercase;
+    padding: 18px 20px;
+    float: left;
+    font-size: 0.85em;
+    font-weight: 400;
+}

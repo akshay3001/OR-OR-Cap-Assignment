@@ -1,0 +1,33 @@
+
+nav ul li
+{
+    display:inline; margin:20px;
+    
+}
+.col-sm-3
+{
+     padding: 13px;
+    
+}
+.a2
+{
+    color:#242424;
+    font-weight: bold;
+}
+.a2:hover
+{
+    color: #30BF6E;
+    text-decoration: none;
+     
+}
+#conta
+{
+	margin:1%;
+	margin-left: ;
+}
+.pie
+{
+	color:white; 
+    font-size:250%;
+}
+
